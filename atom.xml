@@ -6,7 +6,7 @@
   <link href="https://mylx2022.github.io/atom.xml" rel="self"/>
   
   <link href="https://mylx2022.github.io/"/>
-  <updated>2022-07-03T09:52:05.744Z</updated>
+  <updated>2022-07-03T06:35:14.812Z</updated>
   <id>https://mylx2022.github.io/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>基于Hexo的matery主题搭建博客</title>
-    <link href="https://mylx2022.github.io/2022/07/03/test/"/>
-    <id>https://mylx2022.github.io/2022/07/03/test/</id>
-    <published>2022-07-03T09:52:05.742Z</published>
-    <updated>2022-07-03T09:52:05.744Z</updated>
-    
-    
-    
-    
-    <category term="工具" scheme="https://mylx2022.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
